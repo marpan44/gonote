@@ -1,41 +1,6 @@
-input {
-
- 
- border: 1px solid grey;
- border-radius: 5px;
- padding: 3px 5px;
- margin-bottom: 10px;
-
+.cover {
+ background-image: url("desktop.jpeg");
+ background-position: center;
+ background-size: cover;
+ min-height: 150px;
 }
-
-body{
-	font-family: Arial;
-}
-
-h1,h2{
-	color: green;
-}
-
-#main-header {
-	background-color: #D1FAD2;
-	padding: 10px;
-}
-
-img.mainimage {
-	border: 2px solid #54C03F;
-	border-radius: 50%;
-}
-
-a {
-	color: darkgreen;
-	font-weight: bold;
-	text-decoration: none;
-	
-	
-}
-
- font-variant: small-caps;
-
-￫ text-decoration: none;
-￫ font-weight: bold;
- color: blue;
